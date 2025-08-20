@@ -1,2 +1,29 @@
-# Stock-Price-Analyzer
-A Machine Learning project that analyzes stock data from CSV or yfinance, predicts future prices using Random Forest Regressor, detects trends, and provides visualizations like moving averages, price charts, and prediction graphs.
+📈 Stock Market Analyzer:
+A machine learning-based web application that analyzes stock price data and predicts future trends using Random Forest Regressor.
+Users can upload a CSV file of stock data or fetch live stock data using Yahoo Finance (yfinance), visualize trends, and get predictions.
+
+🚀 Features
+
+-> Upload stock data in CSV format or fetch using Yahoo Finance
+-> Exploratory Data Analysis (EDA) with visualizations
+-> Stock price prediction using Random Forest Regressor
+-> Trend detection (uptrend, downtrend, neutral)
+-> Interactive visualizations with Matplotlib/Seaborn
+-> Deployable with Streamlit/Gradio for web use
+
+🛠️ Tech Stack
+
+-> Python 3.9+
+-> Pandas, NumPy – Data processing
+-> Scikit-learn – Machine learning model (Random Forest Regressor)
+-> Matplotlib, Seaborn – Data visualization
+-> yfinance – Fetch stock market data
+-> Streamlit / Gradio – Deployment
+
+📂 Project Structure
+
+├── app.py              # Main app file for Streamlit/Gradio
+├── stock_analyzer.ipynb # Jupyter notebook for development
+├── requirements.txt     # Python dependencies
+├── LICENSE              # Open-source license (MIT)
+├── README.md            # Project documentation
