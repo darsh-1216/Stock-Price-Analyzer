@@ -27,3 +27,16 @@ Users can upload a CSV file of stock data or fetch live stock data using Yahoo F
 ├── requirements.txt     # Python dependencies
 ├── LICENSE              # Open-source license (MIT)
 ├── README.md            # Project documentation
+
+Home
+![HOME](img1.png)
+
+Data Desc
+![DATA](img2.png)
+
+Price Prediction
+
+![Actual vs Predicted](img3.png)
+
+
+
