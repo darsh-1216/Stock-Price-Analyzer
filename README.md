@@ -20,16 +20,6 @@ Users can upload a CSV file of stock data or fetch live stock data using Yahoo F
 -> yfinance – Fetch stock market data
 -> Streamlit / Gradio – Deployment
 
-📂 Project Structure
-
-├── app.py              # Main app file for Streamlit/Gradio
-├── stock_analyzer.ipynb # Jupyter notebook for development
-├── requirements.txt     # Python dependencies
-├── LICENSE              # Open-source license (MIT)
-├── README.md            # Project documentation
-
-
-
 
 
 Home
