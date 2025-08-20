@@ -20,6 +20,12 @@ Users can upload a CSV file of stock data or fetch live stock data using Yahoo F
 -> yfinance – Fetch stock market data
 -> Streamlit / Gradio – Deployment
 
+Here are some preview images 
+
+
+
+
+
 
 
 Home
