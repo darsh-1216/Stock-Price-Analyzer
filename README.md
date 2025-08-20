@@ -28,6 +28,10 @@ Users can upload a CSV file of stock data or fetch live stock data using Yahoo F
 ├── LICENSE              # Open-source license (MIT)
 ├── README.md            # Project documentation
 
+
+
+
+
 Home
 ![HOME](img1.png)
 
