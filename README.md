@@ -1,3 +1,8 @@
+# 📈 Stock Price Analyzer
+
+🔗 [Live Demo on Streamlit]
+(https://stock-price-analyzer-by-darsh.streamlit.app/)
+
 📈 Stock Market Analyzer:
 A machine learning-based web application that analyzes stock price data and predicts future trends using Random Forest Regressor.
 Users can upload a CSV file of stock data or fetch live stock data using Yahoo Finance (yfinance), visualize trends, and get predictions.
